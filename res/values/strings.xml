@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miracast Sample</string>
+    <string name="hello_world">Hello world, Remote Display over Miracast!!</string>
+</resources>
