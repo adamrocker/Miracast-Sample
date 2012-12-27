@@ -64,8 +64,9 @@ This demo apk shows only TextView on the remote display. The layout resource is 
 
 #### Test Enviroinment
 
-Nexus4: Currently only Nexus4 supports the Miracast(27 Dec. 2012).
-PTV3000: I've tested this apk with [PTV3000](http://www.netgear.com/home/products/hometheater/media-players/PTV3000.aspx).
+***Nexus4:*** Currently only Nexus4 supports the Miracast(27 Dec. 2012).
+
+***PTV3000:*** I've tested this apk with [PTV3000](http://www.netgear.com/home/products/hometheater/media-players/PTV3000.aspx).
 
 #### Nexus4
 
