@@ -70,9 +70,11 @@ PTV3000: I've tested this apk with [PTV3000](http://www.netgear.com/home/product
 #### Nexus4
 
 Turn on the "Wireless Display" on the Settings.
+
 ![Wireless Display](https://lh5.googleusercontent.com/-jsRDm7OwPcA/UNwZf_w53II/AAAAAAAAQSU/gwoLDrnoLi8/s800/device-2012-12-27-184713.png)
 
 You can find wireless displays and tap an item to connect.
+
 ![Connecting the wireless display](https://lh6.googleusercontent.com/-dL8nnpfbEts/UNwZf37W6rI/AAAAAAAAQSY/NG9y4QrC36A/s800/device-2012-12-27-184741.png)
 
 #### PTV3000
