@@ -105,8 +105,7 @@ public class MainActivity extends Activity {
         public View getView(int position, View convertView, ViewGroup parent) {
             final View v;
             if (convertView == null) {
-                v = ((Activity) mContext).getLayoutInflater().inflate(
-                        R.layout.list_item, null);
+                v = ((Activity) mContext).getLayoutInflater().inflate(R.layout.list_item, null);
             } else {
                 v = convertView;
             }
@@ -133,9 +132,6 @@ public class MainActivity extends Activity {
 
             Display[] displays = mDisplayManager.getDisplays();
             addAll(displays);
-
-            for (Display display : displays) {
-            }
         }
     }
     
