@@ -148,9 +148,6 @@ public class MainActivity extends Activity {
         protected void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
             setContentView(R.layout.remote_display);
-
-            final Display display = getDisplay();
-            final int displayId = display.getDisplayId();
         }
     }
 }
